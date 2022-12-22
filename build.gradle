@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'com.jackmeng.halcyon.stdlib'
+version '0.1-MINIMA'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
