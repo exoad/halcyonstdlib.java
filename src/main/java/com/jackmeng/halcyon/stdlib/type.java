@@ -12,6 +12,7 @@ package com.jackmeng.halcyon.stdlib;
 public interface type<T>
         extends
         Comparable<T> {
+    
     /**
      * Defaulted for the name of the type!!!
      *
